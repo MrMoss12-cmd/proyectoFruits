@@ -1,6 +1,6 @@
-[submodule "fruits-typescript"]
-	path = fruits-typescript
+[submodule "backend"]
+	path = backend
 	url = https://github.com/MrMoss12-cmd/fruits-cli.git
-[submodule "fruits-python"]
-	path = fruits-python
+[submodule "frontend"]
+	path = frontend
 	url = https://github.com/MrMoss12-cmd/fruits-python.git
